@@ -12,7 +12,14 @@
 .about-p1{
   font-size: 21px;
   margin-top: 15px;
+  font-family: 'georgia';
+  color: rgb(245, 82, 7) ;
 }
+
+.about-title{
+  font-family: 'georgia';
+}
+
 .about-p2{
   margin-top: 8px;
   font-size: 14px;
@@ -23,6 +30,7 @@
   align-items: center;
   justify-content: center;
   margin-top: 70px;
+  font-family: 'georgia';
 }
 .card{
   margin-left: 40px;
@@ -36,4 +44,19 @@
   height: 80px;
   margin-top: 40px;
   margin-bottom: 22px;
+}
+
+#navitem1:hover{
+  text-decoration: underline;
+  color: red;
+}
+
+#navitem2:hover{
+  text-decoration: underline;
+  color: red;
+}
+
+#navitem3:hover{
+  text-decoration: underline;
+  color: red;
 }

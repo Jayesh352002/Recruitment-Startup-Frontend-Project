@@ -6,7 +6,7 @@ import { CiSquareCheck } from "react-icons/ci";
 function Work() {
   return (
     <div>
-        <h2 style={{textAlign:"center" , marginTop:-50}}>How It Works</h2>
+        <h2 style={{textAlign:"center" , marginTop:-50 , textDecoration: 'underline' , fontfamily: 'georgia'}}>How It Works</h2>
     <div className="work-div">
       <div className="card" style={{ width: "21rem" }}>
         <FaWpforms className="card-icons"/>

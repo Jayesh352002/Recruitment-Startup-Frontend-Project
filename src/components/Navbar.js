@@ -8,13 +8,13 @@ function Navbar() {
           Hire Me
         </a>
         <form className="d-flex">
-          <a className="navbar-brand " href="/">
+          <a className="navbar-brand " href="/" id="navitem1">
             Discover
           </a>
-          <a className="navbar-brand" href="/">
+          <a className="navbar-brand" href="/" id="navitem2">
             For Job Seekers
           </a>
-          <a className="navbar-brand" href="/">
+          <a className="navbar-brand" href="/" id="navitem3">
             For Companies
           </a>
           <button className="btn btn-dark" type="submit">
